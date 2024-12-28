@@ -22,7 +22,7 @@ Initially, the form was printed on paper because the doctors found this method f
 The data collection lasted for **three months**, from **September to November 2024**.
 
 ## Institutions
-(Include institutions here if applicable)
+Nazi Boni university
 
 ## Categories
 - Machine Learning
@@ -32,7 +32,13 @@ The data collection lasted for **three months**, from **September to November 20
 - Health IT
 
 ## Funding
-(Include funding information here if applicable)
+This work was conducted as part of the Artificial Intel-
+ligence for Development in Africa (AI4D Africa) program,
+funded by Canada’s International Development Research
+Center (IDRC) and the Swedish International Develop-
+ment Cooperation Agency (Sida). Special thanks to the
+healthcare workers and patients in Dafra and Do districts
+for their cooperation.
 
 ## License
 This dataset is licensed under **CC BY 4.0**.
