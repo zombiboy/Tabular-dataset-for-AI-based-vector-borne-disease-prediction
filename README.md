@@ -1,4 +1,4 @@
-# Clinical Dataset on Malaria, Dengue, Yellow Fever, and Typhoid Fever
+# Clinical Dataset on Malaria, Dengue, Yellow Fever, and others vector-borne diseases
 
 ## Description
 This dataset gathers clinical information about patients diagnosed with malaria, dengue, yellow fever, and typhoid fever, as well as patients excluded from these diseases. The data was collected from the health districts of DO and DAFRA, located in the Hauts-Bassins region of Burkina Faso. The dataset includes **300 records**, with 150 consultations from DAFRA and 150 from DO.
